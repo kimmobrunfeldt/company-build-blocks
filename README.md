@@ -4,7 +4,8 @@ Pieces of information to help founding a (coding) company. These building blocks
 
 ## Hour tracking
 
-[Harvest](http://www.getharvest.com/)
+* [Harvest](http://www.getharvest.com/)
+* [Timely](http://www.timelyapp.com/)
 
 ## Intranet
 
